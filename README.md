@@ -14,7 +14,7 @@ oferecendo uma curva de aprendizagem mais rápida
 ## Link
 
 <a href="https://pt.vuejs.org/guide/quick-start" target=_blank>
-<img align="center" alt="html5" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+<img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 </a>
 
 ## Project setup
