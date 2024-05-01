@@ -14,10 +14,10 @@ oferecendo uma curva de aprendizagem mais rápida
 ## Links
 
 <a href="https://pt.vuejs.org/guide/quick-start" target=_blank>
-<img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+    <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 </a>
 <a href="https://youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL&si=roK88jc5LoYOgUKc" target=_blank>
-<img align="center" alt="vue" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img align="center" alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 ## Project setup
