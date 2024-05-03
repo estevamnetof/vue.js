@@ -7,7 +7,7 @@
     data() {
       return { 
         avatar: "/img/avatar.png",
-        descricao: "Matheus Battisti"
+        descricao: "Estevam Neto"
       }
     }
   }
